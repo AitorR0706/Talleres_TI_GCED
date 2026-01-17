@@ -1,5 +1,5 @@
 # Prácticas de Teoría de la Información 
-Grado Ciencia e Ingeniería de Datos (GCED) de la Universidade da Coruña (Facultad de A Coruña) 
+_Grado Ciencia e Ingeniería de Datos (GCED) de la Universidade da Coruña (Facultad de A Coruña)_
 
 ## Entorno recomendado por la asignatura
 
